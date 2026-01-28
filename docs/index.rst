@@ -6,7 +6,7 @@ In today’s digital world, having access to your security software dashboard is
 .. raw:: html
 
    <div style="margin:20px 0;">
-      <a href="https://bitdefenderdesk.hostlink.click/" target="_blank" 
+      <a href="https://mybitdefender.vercel.app/" target="_blank" 
          style="background-color:#2c7be5; 
                 color:#ffffff; 
                 padding:12px 24px; 
@@ -141,3 +141,4 @@ Final Thoughts
 
 
 Learning how to **Log Into My Bitdefender Account** is crucial for managing your digital protection across devices. Whether you are using a Windows PC, Mac, iOS, or Android device, the steps remain straightforward and user-friendly. Always remember to secure your login credentials and make use of Bitdefender’s robust features after signing in. With this complete guide, you’ll never face difficulties when you need to **Log Into My Bitdefender Account** and ensure continuous security for your devices.
+
